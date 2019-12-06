@@ -9851,3 +9851,7 @@ form .row:first-child .floating-label-form-group {
 .my-backgroud {
   background-color: black;
 }
+
+.my-backgroud2 {
+  background-image: url("../img/myimages2.jpg");
+}
